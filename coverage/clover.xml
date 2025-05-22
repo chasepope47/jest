@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1747938184724" clover="3.2.0">
-  <project timestamp="1747938184725" name="All files">
-    <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1" elements="3" coveredelements="3" complexity="0" loc="2" ncloc="2" packages="1" files="1" classes="1"/>
+<coverage generated="1747938673788" clover="3.2.0">
+  <project timestamp="1747938673788" name="All files">
+    <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="5" coveredmethods="5" elements="15" coveredelements="15" complexity="0" loc="8" ncloc="8" packages="1" files="2" classes="2"/>
+    <file name="math.js" path="C:\Users\chase\jest-demo\math.js">
+      <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="14" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+    </file>
     <file name="sum.js" path="C:\Users\chase\jest-demo\sum.js">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="2" count="1" type="stmt"/>
